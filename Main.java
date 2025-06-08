@@ -15,8 +15,8 @@ public class Main {
     int_year=sc.nextInt();
     //System.out.println (int_day + "-" + int_month + "-" + int_year);
     //System.out.println (int_month);
-     //System.out.println (int_year);
-
+     //System.out.println (int_year)  Mmohit makkar;
+    int my_age =50;
     String month_name = switch (int_month){
       case 1 -> "January";
       case 2 -> "February";
